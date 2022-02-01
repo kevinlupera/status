@@ -11,6 +11,11 @@ sites:
     url: https://amazon.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
+    expectedStatusCodes:
+      - 200
+    
+assignees: # Users to assign downtime issues (optional)
+  - kevinlupera
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -18,9 +23,10 @@ status-website:
   cname: demo.upptime.js.org
   baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Kevin Lupera Status
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: Monitor status real-time
+  theme: dark
   navbar:
     - title: Status
       href: /
