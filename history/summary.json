@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/kevinlupera.github.io.ico",
     "slug": "portafolio-kevin-lupera",
     "status": "up",
-    "uptime": "88.89%",
+    "uptime": "88.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "81.77%",
-    "time": 92,
-    "timeDay": 89,
-    "timeWeek": 70,
+    "uptimeYear": "82.04%",
+    "time": 91,
+    "timeDay": 42,
+    "timeWeek": 69,
     "timeMonth": 92,
     "timeYear": 92,
     "dailyMinutesDown": {
@@ -80,8 +80,7 @@
       "2022-10-02": 1440,
       "2022-10-01": 1440,
       "2022-09-30": 1440,
-      "2022-09-29": 1440,
-      "2022-09-28": 1440
+      "2022-09-29": 1440
     }
   },
   {
@@ -96,10 +95,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 181,
-    "timeDay": 151,
-    "timeWeek": 131,
-    "timeMonth": 210,
-    "timeYear": 185,
+    "timeDay": 136,
+    "timeWeek": 134,
+    "timeMonth": 211,
+    "timeYear": 184,
     "dailyMinutesDown": {
       "2023-07-18": 17,
       "2022-12-05": 28
@@ -117,10 +116,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 312,
-    "timeDay": 296,
-    "timeWeek": 287,
-    "timeMonth": 339,
-    "timeYear": 298,
+    "timeDay": 163,
+    "timeWeek": 282,
+    "timeMonth": 340,
+    "timeYear": 297,
     "dailyMinutesDown": {}
   },
   {
