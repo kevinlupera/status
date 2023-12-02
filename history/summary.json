@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/kevinlupera.github.io.ico",
     "slug": "portafolio-kevin-lupera",
     "status": "up",
-    "uptime": "89.97%",
+    "uptime": "89.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.58%",
-    "time": 92,
-    "timeDay": 124,
-    "timeWeek": 119,
-    "timeMonth": 100,
+    "uptimeYear": "99.85%",
+    "time": 91,
+    "timeDay": 40,
+    "timeWeek": 100,
+    "timeMonth": 97,
     "timeYear": 95,
-    "dailyMinutesDown": {
-      "2022-12-02": 821
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Google",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 185,
-    "timeDay": 138,
-    "timeWeek": 138,
-    "timeMonth": 165,
+    "timeDay": 114,
+    "timeWeek": 134,
+    "timeMonth": 164,
     "timeYear": 186,
     "dailyMinutesDown": {
       "2023-07-18": 17,
@@ -52,9 +50,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 300,
-    "timeDay": 395,
-    "timeWeek": 304,
-    "timeMonth": 303,
+    "timeDay": 142,
+    "timeWeek": 258,
+    "timeMonth": 297,
     "timeYear": 301,
     "dailyMinutesDown": {}
   },
