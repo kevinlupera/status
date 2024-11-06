@@ -42,19 +42,19 @@
     "url": "https://amazon.com",
     "icon": "https://icons.duckduckgo.com/ip3/amazon.com.ico",
     "slug": "amazon",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 273,
-    "timeDay": 232,
-    "timeWeek": 232,
-    "timeMonth": 261,
+    "timeDay": 302,
+    "timeWeek": 250,
+    "timeMonth": 265,
     "timeYear": 260,
     "dailyMinutesDown": {
-      "2024-11-06": 0
+      "2024-11-06": 9
     }
   },
   {
