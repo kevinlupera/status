@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/kevinlupera.github.io.ico",
     "slug": "portafolio-kevin-lupera",
     "status": "up",
-    "uptime": "93.36%",
+    "uptime": "93.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -42,18 +42,20 @@
     "url": "https://amazon.com",
     "icon": "https://icons.duckduckgo.com/ip3/amazon.com.ico",
     "slug": "amazon",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 272,
+    "time": 273,
     "timeDay": 232,
     "timeWeek": 232,
     "timeMonth": 261,
     "timeYear": 260,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-06": 0
+    }
   },
   {
     "name": "Test Broken Site",
