@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 99,
-    "timeDay": 84,
-    "timeWeek": 91,
-    "timeMonth": 101,
+    "time": 100,
+    "timeDay": 115,
+    "timeWeek": 99,
+    "timeMonth": 103,
     "timeYear": 104,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 176,
-    "timeDay": 163,
-    "timeWeek": 152,
-    "timeMonth": 188,
+    "timeDay": 239,
+    "timeWeek": 169,
+    "timeMonth": 191,
     "timeYear": 169,
     "dailyMinutesDown": {
       "2024-05-01": 49
@@ -44,18 +44,16 @@
     "slug": "amazon",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 273,
-    "timeDay": 302,
-    "timeWeek": 250,
-    "timeMonth": 265,
+    "timeDay": 325,
+    "timeWeek": 263,
+    "timeMonth": 268,
     "timeYear": 260,
-    "dailyMinutesDown": {
-      "2024-11-06": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Test Broken Site",
