@@ -4,18 +4,20 @@
     "url": "https://kevinlupera.github.io/",
     "icon": "https://icons.duckduckgo.com/ip3/kevinlupera.github.io.ico",
     "slug": "portafolio-kevin-lupera",
-    "status": "down",
+    "status": "up",
     "uptime": "94.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.39%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 122,
-    "timeDay": 135,
-    "timeWeek": 110,
-    "timeMonth": 115,
+    "timeDay": 160,
+    "timeWeek": 119,
+    "timeMonth": 117,
     "timeYear": 119,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-25": 23
+    }
   },
   {
     "name": "Google",
