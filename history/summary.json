@@ -4,9 +4,9 @@
     "url": "https://kevinlupera.github.io/",
     "icon": "https://icons.duckduckgo.com/ip3/kevinlupera.github.io.ico",
     "slug": "portafolio-kevin-lupera",
-    "status": "up",
+    "status": "down",
     "uptime": "95.30%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 115,
     "timeYear": 123,
     "dailyMinutesDown": {
+      "2025-12-26": 0,
       "2025-08-25": 23
     }
   },
