@@ -47,22 +47,22 @@
     "url": "https://amazon.com",
     "icon": "https://icons.duckduckgo.com/ip3/amazon.com.ico",
     "slug": "amazon",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.97%",
     "time": 342,
-    "timeDay": 301,
-    "timeWeek": 405,
-    "timeMonth": 444,
+    "timeDay": 335,
+    "timeWeek": 401,
+    "timeMonth": 442,
     "timeYear": 361,
     "dailyMinutesDown": {
       "2026-06-03": 13,
       "2026-06-02": 86,
       "2026-07-26": 65,
-      "2026-08-23": 1
+      "2026-08-23": 16
     }
   },
   {
