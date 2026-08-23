@@ -1,7 +1,7 @@
 url: https://amazon.com
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-08-23T17:57:07.517Z
+status: up
+code: 200
+responseTime: 368
+lastUpdated: 2026-08-23T18:13:12.430Z
 startTime: 2022-02-01T18:53:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
